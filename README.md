@@ -343,7 +343,7 @@
             
             <div class="row row-copirayt">
                 <p class="mbr-text mb-0 mbr-fonts-style mbr-white align-center display-7">
-                    © Copyright 2025 DuxInqSpir. All Rights Reserved.
+                    © Copyright 2024 DuxInqSpir. All Rights Reserved.
                 </p>
             </div>
         </div>
